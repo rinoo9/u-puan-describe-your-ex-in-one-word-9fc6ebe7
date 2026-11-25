@@ -4,7 +4,7 @@ Writes a single word -- the one-word verdict on an ex -- to
 /output/entry.txt. Deterministic, no network, no randomness.
 """
 
-ENTRY = "Unsubscribed"
+ENTRY = "Refund"
 
 
 def main():

@@ -4,7 +4,7 @@
 [![Rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/rinoo9/u-puan-describe-your-ex-in-one-word-9fc6ebe7/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
 [![Reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/rinoo9/u-puan-describe-your-ex-in-one-word-9fc6ebe7/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
 
-Entry for the make.fun bounty "Describe Your Ex in One Word": the entry word is "Unsubscribed" (12 characters).
+Entry for the make.fun bounty "Describe Your Ex in One Word": the entry word is "Refund" (6 characters).
 
 ## Run
 

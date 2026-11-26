@@ -2,9 +2,14 @@
 
 Writes a single word -- the one-word verdict on an ex -- to
 /output/entry.txt. Deterministic, no network, no randomness.
+
+The word is "LeftOnRead": the whole relationship, compressed. They
+read the message, they saw the message, and they chose silence as
+their reply. No breakup speech, no closure, just two blue ticks and
+eternal nothing. It is not what they said. It is what they did not.
 """
 
-ENTRY = "Unsubscribe"
+ENTRY = "LeftOnRead"
 
 
 def main():
